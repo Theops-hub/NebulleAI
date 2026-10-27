@@ -1,0 +1,85 @@
+CONTRAT DE LICENCE D'UTILISATEUR FINAL — NebulleAI
+
+© 2026 KFR studio. Tous droits réservés.
+
+En installant ou en utilisant NebulleAI (« le Logiciel »), vous (« l'Utilisateur ») acceptez le présent
+contrat conclu avec KFR studio (« l'Éditeur »). Si vous ne l'acceptez pas, n'installez pas le Logiciel et
+supprimez-le.
+
+1. Licence accordée
+
+L'Éditeur accorde à l'Utilisateur une licence gratuite, personnelle, non exclusive, non cessible et
+révocable, pour installer et utiliser le Logiciel sur les ordinateurs Mac qu'il possède ou contrôle, à des
+fins privées ou professionnelles. Le Logiciel est concédé sous licence, il n'est pas vendu.
+
+2. Mode personnage
+
+Le mode personnage du Logiciel n'est accessible qu'avec une clé de licence payante délivrée par l'Éditeur.
+Une clé est personnelle, liée à l'ordinateur pour lequel elle a été délivrée, et ne peut être ni cédée, ni
+partagée, ni revendue. Les conditions d'achat (prix, durée, remboursement) sont celles indiquées au moment
+de l'achat.
+
+3. Restrictions
+
+Sauf dans la mesure où la loi applicable l'autorise expressément malgré cette restriction, l'Utilisateur
+s'interdit :
+  a) de copier le Logiciel, hors installation sur ses propres ordinateurs et copie de sauvegarde ;
+  b) de modifier, traduire, adapter le Logiciel ou d'en créer des œuvres dérivées ;
+  c) de décompiler, désassembler ou procéder à l'ingénierie inverse du Logiciel ;
+  d) de contourner, désactiver ou altérer la vérification des clés de licence ou tout autre dispositif de
+     protection du Logiciel ;
+  e) de vendre, revendre, louer, prêter, distribuer, sous-licencier ou mettre le Logiciel à disposition de
+     tiers, y compris sous forme de service en ligne ;
+  f) de retirer ou modifier les mentions de propriété et de licence du Logiciel.
+
+4. Propriété intellectuelle
+
+Le Logiciel, son code, ses textes, ses images, ses modèles 3D, le nom et le personnage de Nébulle, et
+Matière vivante restent la propriété exclusive de l'Éditeur. Le présent contrat ne transfère aucun droit
+de propriété.
+
+5. Composants tiers
+
+Le Logiciel contient des composants de tiers distribués sous leurs propres licences (notamment llama.cpp,
+Electron, Depth Anything V2 Small et des bibliothèques JavaScript), dont les notices accompagnent le
+Logiciel (THIRD_PARTY_NOTICES.md, dossier « licenses » et répertoires des dépendances). Ces composants
+restent régis par leurs licences respectives ; rien dans le présent contrat ne restreint les droits que
+ces licences accordent sur eux.
+
+6. Mises à jour
+
+Le Logiciel peut rechercher, télécharger et installer ses mises à jour, selon le réglage choisi par
+l'Utilisateur. Les mises à jour sont régies par le présent contrat, sauf contrat distinct les accompagnant.
+
+7. Services en ligne et contenus
+
+Le Logiciel fonctionne principalement sur l'ordinateur de l'Utilisateur. Certaines fonctions contactent
+des services en ligne : mises à jour, téléchargement de modèles, recherches sur le web, et les services
+que l'Utilisateur choisit de connecter. Ces services relèvent de leurs propres conditions. Les réponses
+et documents produits par l'intelligence artificielle peuvent contenir des erreurs : l'Utilisateur les
+vérifie avant de s'y fier.
+
+8. Absence de garantie
+
+Dans la mesure permise par la loi applicable, le Logiciel est fourni « en l'état », sans garantie d'aucune
+sorte, expresse ou implicite, notamment d'adéquation à un usage particulier ou d'absence d'erreur.
+
+9. Limitation de responsabilité
+
+Dans la mesure permise par la loi applicable, l'Éditeur n'est pas responsable des dommages indirects,
+pertes de données, de profits ou d'exploitation résultant de l'utilisation ou de l'impossibilité
+d'utiliser le Logiciel. Rien dans le présent contrat n'exclut une responsabilité qui ne peut l'être en
+vertu de la loi.
+
+10. Résiliation
+
+Le présent contrat prend fin automatiquement si l'Utilisateur en viole les termes. L'Utilisateur doit
+alors cesser d'utiliser le Logiciel et le supprimer. Les articles 3, 4, 8, 9 et 11 survivent à la
+résiliation.
+
+11. Droit applicable
+
+Le présent contrat est régi par le droit français. Pour un Utilisateur consommateur, il ne le prive pas de
+la protection des dispositions impératives du droit de son pays de résidence.
+
+Contact : https://github.com/Theops-hub/NebulleAI
